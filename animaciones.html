@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    animation: moverse 3s infinite;
+    }
+    @keyframes moverse {
+        0%{
+            top: 0px;
+            left: 0px;
+            border-radius: 100%;
+        }
+        25%{
+            top: 0px;
+            left: 10px;
+            background-color: blue;
+        }
+        50%{
+            top: 200px;
+            left: 400px;
+            transform: rotate(90deg);
+        }
+        100%{
+            top: 100px;
+            left: 0px;
+            background-color: blueviolet;
+        }
+    }
+</style>
+<body>
+    <div></div>
+</body>
+</html>
