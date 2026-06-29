@@ -11,6 +11,8 @@ En la página de inicio se pueden ver tres opciones principales:
 
 Debajo de estas opciones hay un pequeño texto que describe lo que se puede encontrar en el portafolio ✨
 
+![alt text](image.png)
+
 🧸 𝓢𝓸𝓫𝓻𝓮 𝓶í
 
 En esta sección encontrarás:
@@ -18,9 +20,13 @@ En esta sección encontrarás:
     Mis habilidades 🌟
     Imágenes de cosas que me gustan 🎀
 
+![alt text](image-1.png)
+
 🌈 𝓟𝓻𝓸𝔂𝓮𝓬𝓽𝓸𝓼
 
 Aquí se muestra un proyecto desarrollado en Python 🐍, donde se explican sus funcionalidades y lo que hace de forma sencilla y clara ✨
+
+![alt text](image-2.png)
 
 💌 𝓒𝓸𝓷𝓽𝓪𝓬𝓽𝓸
 
@@ -31,6 +37,8 @@ Un formulario para que las personas puedan escribir:
     Nombre ✨
     Email 📧
     Mensaje 💭
+
+![alt text](image-3.png)
 
 🎨 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰í𝓪𝓼 𝓾𝓽𝓲𝓵𝓲𝔃𝓪𝓭𝓪𝓼
     HTML 💕
